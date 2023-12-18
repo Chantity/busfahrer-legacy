@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702920175225,
+  "timestamp": 1702920570612,
   "index": "/busfahrer-legacy/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/busfahrer-legacy/favicon.ico",
         "/busfahrer-legacy/index.html",
-        "/busfahrer-legacy/main.515b62c7eb631bc3.js",
+        "/busfahrer-legacy/main.8db489320edcb2dd.js",
         "/busfahrer-legacy/manifest.webmanifest",
         "/busfahrer-legacy/polyfills.87b0c929d7f9a370.js",
         "/busfahrer-legacy/runtime.6e569d090ab1aec9.js",
@@ -142,10 +142,10 @@
     "/busfahrer-legacy/campus.bde7e97027d9b7c9.png": "05ff5c86947fac86e894f0d80ce0940b48e9b059",
     "/busfahrer-legacy/dach.cafc4f1a0b849e7d.png": "899cc43763c602f5588200a14428d5827898df8e",
     "/busfahrer-legacy/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/busfahrer-legacy/index.html": "e384932ed6b15be0aa78f0b20cdf08b9cb870aea",
+    "/busfahrer-legacy/index.html": "bf9940ebdadbfd117d8c0a21451174fe0af1dfca",
     "/busfahrer-legacy/joker.bf5a1dcbc61ea4a3.gif": "7c564cb53fe8856c6a9523570e0d55129d42f2f8",
     "/busfahrer-legacy/kroellwitzbruecke.4945913479b1498a.png": "76b325aa3be53806d275e905cc8500f053e7bc23",
-    "/busfahrer-legacy/main.515b62c7eb631bc3.js": "a404a7d04efdf464689ea6f18239c7c1fb9f8a6a",
+    "/busfahrer-legacy/main.8db489320edcb2dd.js": "101417be4a3beac58d55a916042421f594c95435",
     "/busfahrer-legacy/manifest.webmanifest": "bae560c670c44394884f8f4c4d93c2966bd71a96",
     "/busfahrer-legacy/polyfills.87b0c929d7f9a370.js": "07d757a14fb7f06ab713ad0ccaad5e62c5bcb2d3",
     "/busfahrer-legacy/runtime.6e569d090ab1aec9.js": "e4407c39612c391c08ea9b775c9a78ddd254a952",
