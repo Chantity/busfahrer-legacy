@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702920570612,
+  "timestamp": 1702921716783,
   "index": "/busfahrer-legacy/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/busfahrer-legacy/favicon.ico",
         "/busfahrer-legacy/index.html",
-        "/busfahrer-legacy/main.8db489320edcb2dd.js",
+        "/busfahrer-legacy/main.d26f2318f9e7dfd0.js",
         "/busfahrer-legacy/manifest.webmanifest",
         "/busfahrer-legacy/polyfills.87b0c929d7f9a370.js",
         "/busfahrer-legacy/runtime.6e569d090ab1aec9.js",
@@ -112,7 +112,7 @@
     "/busfahrer-legacy/assets/backgrounds/steintorcampus.png": "83436b7322c07981b9ad17eef754adb76574ce44",
     "/busfahrer-legacy/assets/backgrounds/stufe.png": "6980af4f5e8aa07fe1b00b2d6aa9243706bc9f65",
     "/busfahrer-legacy/assets/backgrounds/treppen.png": "9018619a81befc3359ab01a8ff231c19f572b220",
-    "/busfahrer-legacy/assets/changelogs.json": "ce02e394104ec0faa0c50a6b7248c21374eedbd1",
+    "/busfahrer-legacy/assets/changelogs.json": "393636abc1f4d6498c401cac55dd1ba984d9b6d7",
     "/busfahrer-legacy/assets/css-playing-cards/cards.css": "54126b9dad0ed299a744b496e468e19c8d83d312",
     "/busfahrer-legacy/assets/css-playing-cards/faces/JC.gif": "16c556c82f3bed51f282bc7f4212d4afc6ef3605",
     "/busfahrer-legacy/assets/css-playing-cards/faces/JD.gif": "94a63a0d48add36cfbfb81f8532c225c1905c2c0",
@@ -142,10 +142,10 @@
     "/busfahrer-legacy/campus.bde7e97027d9b7c9.png": "05ff5c86947fac86e894f0d80ce0940b48e9b059",
     "/busfahrer-legacy/dach.cafc4f1a0b849e7d.png": "899cc43763c602f5588200a14428d5827898df8e",
     "/busfahrer-legacy/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/busfahrer-legacy/index.html": "bf9940ebdadbfd117d8c0a21451174fe0af1dfca",
+    "/busfahrer-legacy/index.html": "363d1da1780026b3e2ba1796e8e60c00ed072a2e",
     "/busfahrer-legacy/joker.bf5a1dcbc61ea4a3.gif": "7c564cb53fe8856c6a9523570e0d55129d42f2f8",
     "/busfahrer-legacy/kroellwitzbruecke.4945913479b1498a.png": "76b325aa3be53806d275e905cc8500f053e7bc23",
-    "/busfahrer-legacy/main.8db489320edcb2dd.js": "101417be4a3beac58d55a916042421f594c95435",
+    "/busfahrer-legacy/main.d26f2318f9e7dfd0.js": "8aacf86f6920eb48186d0a1b6d85b3529d0e9d65",
     "/busfahrer-legacy/manifest.webmanifest": "bae560c670c44394884f8f4c4d93c2966bd71a96",
     "/busfahrer-legacy/polyfills.87b0c929d7f9a370.js": "07d757a14fb7f06ab713ad0ccaad5e62c5bcb2d3",
     "/busfahrer-legacy/runtime.6e569d090ab1aec9.js": "e4407c39612c391c08ea9b775c9a78ddd254a952",
